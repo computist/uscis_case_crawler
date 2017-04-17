@@ -1,5 +1,5 @@
 # USCIS Case Crawler
-A simple python tool to bash capture USCIS case result.
+A simple python tool to bash capture USCIS case result.  
 The result will be printed to console.
 
 ### Install Dependency
